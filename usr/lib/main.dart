@@ -86,7 +86,7 @@ class _HomeScreenState extends State<HomeScreen> {
             label: 'Identifiler+',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.microscope),
+            icon: Icon(Icons.analytics),
             label: 'MiniFiler',
           ),
         ],
